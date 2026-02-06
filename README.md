@@ -51,19 +51,6 @@ const hritik = {
 
 ---
 
-### <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMWI4OWVlODEyYjU0ZDI5NjFiZDY1ZTI0MWE3YzU4YmY5MDdjNzY1MCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hritikhassaniNU&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=hritikhassaniNU&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" />
-</p>
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritikhassaniNU&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
-  <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hritikhassaniNU&theme=radical&utcOffset=8" />
-</p>
----
-
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Contribution Graph
 
 <p align="center">
