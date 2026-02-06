@@ -80,18 +80,18 @@ const hritik = {
 
 </div>
 
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hritikhassaniNU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritikhassaniNU&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
-</div>
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hritikhassaniNU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritikhassaniNU&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hritikhassaniNU&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
-</div>
+<p align="center">
+  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=hritikhassaniNU&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</p>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hritikhassaniNU&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
-</div>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hritikhassaniNU&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" width="95%"/>
+</p>
 
 ---
 
