@@ -97,18 +97,6 @@ const hritik = {
 
 <div align="center">
 
-### 🏆 GitHub Trophies
-
-</div>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hritikhassaniNU&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  />
-</div>
-
----
-
-<div align="center">
-
 ### 📈 Contribution Graph
 
 </div>
