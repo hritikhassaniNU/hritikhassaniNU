@@ -1,142 +1,164 @@
-<!--
-**Ritik-san/Ritik-san** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<!-- Animated Header -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hritik%20Hassani&fontSize=42&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=16&descAlignY=51&animation=twinkling" width="100%"/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-Here's how to reach me:  
-
-[<img align="left" alt="ritik-san.githu.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt=" | Email" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/envelope-closed.svg" />][email]
-[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-
-[website]: https://ritik-san.github.io](https://github.com/hritikhassaniNU)
-[email]: mailto:
-[twitter]: https://twitter.com/
-[linkedin]: https://www.linkedin.com/in/
-[![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)](https://ritik-san.io)
--->
-
-<h1 align="center">Hi 👋, I'm Hritik Hassani</h1>
-<h3 align="center">A Passionate Full-Stack Developer</h3>
+</div>
 
 <div align="center">
-  <img alt="Coding" width="400" src="https://www.web24zone.com/wp-content/uploads/2022/10/46207-programmer-1.gif">
-</div>
-
----
-
-<div style="display: flex; justify-content: space-between; align-items: center; flex-wrap: wrap;">
   
-  <!-- Profile Views -->
-  <div style="flex: 1; min-width: 250px;">
-    <h3>👀 Profile Views</h3>
-    <p> 
-      <img src="https://komarev.com/ghpvc/?username=hritikhassaniNU&label=Profile%20views&color=0e75b6&style=flat" alt="hritikhassaniNU" />
-    </p>
-  </div>
-
-  <!-- About Me -->
-  <div style="flex: 2; min-width: 300px;">
-    <h3>🚀 About Me</h3>
-    <ul>
-      <li>🌱 I’m currently expanding my knowledge in <b>modern frameworks, system design, and backend development.</b></li>
-      <li>👨‍💻 Check out my projects on <a href="https://github.com/hritikhassaniNU"><b>GitHub</b></a></li>
-      <li>💬 Ask me about <b>React, Next.js, JavaScript, and backend technologies</b></li>
-      <li>📫 Reach me via <a href="https://www.linkedin.com/in/hritik-hassani/"><b>LinkedIn</b></a></li>
-      <li>⚡ Fun fact: <b>I think I am funny 😆</b></li>
-    </ul>
-  </div>
+<!-- Typing Animation -->
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications;Passionate+about+clean+code;Always+learning+new+technologies;Let's+create+something+amazing!)](https://git.io/typing-svg)
 
 </div>
 
 ---
 
-### 🛠️ Technologies & Tools
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nextjs.org/" target="_blank">
-    <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="40" height="40"/>
-  </a>
-  <a href="https://redux.js.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="Redux" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-  <a href="https://getbootstrap.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://firebase.google.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/>
-  </a>
-  <a href="https://www.figma.com/" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
-  <a href="https://wordpress.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/wordpress/wordpress-original.svg" alt="WordPress" width="40" height="40"/>
-  </a>
-  <a href="https://www.shopify.com/" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/536/536473.png" alt="Shopify" width="40" height="40"/>
-  </a>
-  <a href="https://www.oracle.com/database/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/50/Oracle_logo.svg" alt="Oracle SQL Database" width="80" height="40"/>
-  </a>
-</p>
+<div align="center">
+
+### 🚀 About Me
+
+</div>
+
+```typescript
+const hritik = {
+    location: "🌍 Earth",
+    role: "Full-Stack Developer",
+    currentFocus: ["System Design", "Backend Architecture", "Modern Frameworks"],
+    languages: ["JavaScript", "TypeScript", "SQL"],
+    technologies: {
+        frontend: ["React", "Next.js", "Redux", "HTML5", "CSS3"],
+        backend: ["Node.js", "MongoDB", "Firebase", "Oracle SQL"],
+        tools: ["Git", "Figma", "WordPress", "Shopify", "Bootstrap"],
+    },
+    currentlyLearning: "Advanced System Design & Cloud Architecture",
+    funFact: "I debug with console.log() and I'm not ashamed! 🐛",
+    askMeAbout: ["React", "Next.js", "JavaScript", "Backend Development"],
+    reachMe: "hritikhassaniNU@gmail.com"
+};
+```
 
 ---
 
-### 📊 GitHub Stats
-<!--<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hritikhassaniNU&show_icons=true&locale=en&layout=compact" alt="Most Used Languages" />
-</p>!-->
+<div align="center">
 
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=hritikhassaniNU&show_icons=true&locale=en" alt="GitHub Stats" />
-</p>
+### 💻 Tech Stack
 
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hritikhassaniNU&" alt="GitHub Streak" />
-</p>
+</div>
+
+<div align="center">
+
+#### Frontend Development
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+#### Backend Development
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+
+#### Tools & Platforms
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+
+</div>
 
 ---
 
-### 🔗 Connect With Me
-<p>
-  <a href="https://linkedin.com/in/hritik-hassani" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
-  <a href="mailto:hritikhassaniNU@gmail.com">
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" alt="Email" height="30" width="40" />
-  </a>
-  <a href="https://github.com/hritikhassaniNU">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" />
-  </a>
-</p>
+<div align="center">
 
+### 📊 GitHub Analytics
+
+</div>
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=hritikhassaniNU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritikhassaniNU&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hritikhassaniNU&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hritikhassaniNU&theme=tokyo-night&hide_border=true&bg_color=0d1117" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+### 🏆 GitHub Trophies
+
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hritikhassaniNU&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" width="100%" alt="Trophy" align="middle"  />
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Contribution Graph
+
+</div>
+
+<div align="center">
+  
+![Snake animation](https://raw.githubusercontent.com/hritikhassaniNU/hritikhassaniNU/output/github-contribution-grid-snake-dark.svg)
+
+</div>
+
+---
+
+<div align="center">
+
+### 🤝 Let's Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hritik-hassani)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hritikhassaniNU)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hritikhassaniNU@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/hritikhassaniNU)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💭 Dev Quote
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
+<div align="center">
+
+### 👀 Profile Views
+
+![](https://komarev.com/ghpvc/?username=hritikhassaniNU&color=blueviolet&style=for-the-badge)
+
+</div>
+
+---
+
+<div align="center">
+
+<!-- Animated Footer -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
+
+**⭐ From [hritikhassaniNU](https://github.com/hritikhassaniNU) with 💙**
+
+</div>
