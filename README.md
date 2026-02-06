@@ -1,152 +1,239 @@
-<div align="center">
-
 <!-- Animated Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hritik%20Hassani&fontSize=42&fontAlignY=32&desc=Full-Stack%20Developer%20%7C%20Problem%20Solver%20%7C%20Tech%20Enthusiast&descSize=16&descAlignY=51&animation=twinkling" width="100%"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&customColorList=0,2,3,5,6&text=HRITIK%20HASSANI&fontSize=70&fontAlign=50&fontAlignY=40&desc=Full-Stack%20Developer%20%7C%20Code%20Craftsman%20%7C%20Innovation%20Driver&descSize=20&descAlign=50&descAlignY=55&animation=fadeIn"/>
+</p>
 
-</div>
+<!-- Typing SVG -->
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=800&height=100&lines=Building+Scalable+Web+Applications+%F0%9F%9A%80;Turning+Ideas+Into+Reality+%E2%9C%A8;Clean+Code+%7C+Best+Practices+%7C+Innovation+%F0%9F%92%A1;Always+Learning+%7C+Always+Growing+%F0%9F%8C%B1" alt="Typing SVG" />
+  </a>
+</p>
 
-<div align="center">
+<!-- Social Badges with Hover Effect -->
+<p align="center">
+  <a href="https://linkedin.com/in/hritik-hassani">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hritikhassaniNU@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=EA4335" alt="Email"/>
+  </a>
+  <a href="https://github.com/hritikhassaniNU">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub"/>
+  </a>
+  <img src="https://komarev.com/ghpvc/?username=hritikhassaniNU&label=Profile%20Views&color=00D9FF&style=for-the-badge" alt="Profile Views"/>
+</p>
+
+<br/>
+
+<!-- About Me Section with Visual Flair -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<h2 align="center">
+  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px" height="32px"> 
+  About Me
+</h2>
+
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif">
+
+```yaml
+name: Hritik Hassani
+role: Full-Stack Developer
+location: Earth 🌍
+workspace:
+  os: [Windows, Linux]
+  editor: VS Code
+  terminal: Zsh
   
-<!-- Typing Animation -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3ABFEF&center=true&vCenter=true&random=false&width=600&lines=Building+scalable+web+applications;Passionate+about+clean+code;Always+learning+new+technologies;Let's+create+something+amazing!)](https://git.io/typing-svg)
+current_focus:
+  - System Design & Architecture
+  - Backend Optimization
+  - Modern Web Frameworks
+  - Cloud Technologies
 
-</div>
+tech_philosophy: |
+  "Write code that humans can understand,
+   and machines will execute flawlessly."
 
----
+daily_routine:
+  - ☕ Coffee
+  - 💻 Code
+  - 🐛 Debug
+  - 🚀 Deploy
+  - 🔁 Repeat
 
-<div align="center">
-
-### 🚀 About Me
-
-</div>
-
-```typescript
-const hritik = {
-    location: "🌍 Earth",
-    role: "Full-Stack Developer",
-    currentFocus: ["System Design", "Backend Architecture", "Modern Frameworks"],
-    languages: ["JavaScript", "TypeScript", "SQL"],
-    technologies: {
-        frontend: ["React", "Next.js", "Redux", "HTML5", "CSS3"],
-        backend: ["Node.js", "MongoDB", "Firebase", "Oracle SQL"],
-        tools: ["Git", "Figma", "WordPress", "Shopify", "Bootstrap"],
-    },
-    currentlyLearning: "Advanced System Design & Cloud Architecture",
-    funFact: "I debug with console.log() and I'm not ashamed! 🐛",
-    askMeAbout: ["React", "Next.js", "JavaScript", "Backend Development"],
-    reachMe: "hritikhassaniNU@gmail.com"
-};
+availability:
+  status: "Open to collaborate"
+  contact: hritikhassaniNU@gmail.com
 ```
 
----
+<br clear="right"/>
 
-<div align="center">
+<!-- Tech Stack Section -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-### 💻 Tech Stack
+<h2 align="center">⚡ Tech Arsenal</h2>
 
-</div>
+<h3 align="center">Frontend Development</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,redux,tailwind,bootstrap,sass" />
+</p>
 
-<div align="center">
+<h3 align="center">Backend & Database</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,mysql,postgres" />
+</p>
 
-#### Frontend Development
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+<h3 align="center">Tools & Platforms</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,wordpress,npm,vercel,netlify" />
+</p>
 
-#### Backend Development
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+<br/>
 
-#### Tools & Platforms
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
-![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)
+<!-- GitHub Stats Section -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-</div>
+<h2 align="center">📊 GitHub Statistics</h2>
 
----
-
-<div align="center">
-
-### 📊 GitHub Analytics
-
-</div>
+<details open>
+<summary><b>📈 Contribution Metrics</b></summary>
+<br/>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=hritikhassaniNU&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritikhassaniNU&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=hritikhassaniNU&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF&ring_color=00D9FF" alt="GitHub Stats"/>
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=hritikhassaniNU&theme=radical&hide_border=true&background=0D1117&stroke=00D9FF&ring=00D9FF&fire=FF6D00&currStreakLabel=00D9FF" alt="GitHub Streak"/>
 </p>
 
 <p align="center">
-  <img width="55%" src="https://github-readme-streak-stats.herokuapp.com/?user=hritikhassaniNU&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak"/>
+  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritikhassaniNU&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=10" alt="Top Languages"/>
+</p>
+
+</details>
+
+<details>
+<summary><b>🏆 GitHub Achievements</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=hritikhassaniNU&theme=radical&no-frame=true&no-bg=true&row=1&column=7&margin-w=15&margin-h=15" alt="Trophies"/>
+</p>
+
+</details>
+
+<details>
+<summary><b>📉 Contribution Graph</b></summary>
+<br/>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hritikhassaniNU&custom_title=Contribution%20Graph&hide_border=true&bg_color=0D1117&color=00D9FF&line=00D9FF&point=FFFFFF&area_color=00D9FF&area=true" alt="Contribution Graph"/>
+</p>
+
+</details>
+
+<br/>
+
+<!-- Coding Activity -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<h2 align="center">💼 What I'm Working On</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=hritikhassaniNU&repo=hritikhassaniNU&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=FFFFFF" alt="Pinned Repo"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=hritikhassaniNU&theme=tokyo-night&hide_border=true&bg_color=0d1117&color=58a6ff&line=1f6feb&point=58a6ff" width="95%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=hritikhassaniNU&theme=radical" alt="Profile Summary"/>
 </p>
 
----
+<br/>
+
+<!-- Skills Progress Bars -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+<h2 align="center">🎯 Expertise Level</h2>
 
 <div align="center">
 
-### 📈 Contribution Graph
+**Frontend Development** 🎨
+![](https://geps.dev/progress/90?successColor=00D9FF)
+
+**Backend Development** ⚙️
+![](https://geps.dev/progress/85?successColor=00D9FF)
+
+**Database Management** 💾
+![](https://geps.dev/progress/80?successColor=00D9FF)
+
+**UI/UX Design** 🎭
+![](https://geps.dev/progress/75?successColor=00D9FF)
+
+**System Design** 🏗️
+![](https://geps.dev/progress/70?successColor=00D9FF)
 
 </div>
 
-<div align="center">
-  
-![Snake animation](https://raw.githubusercontent.com/hritikhassaniNU/hritikhassaniNU/output/github-contribution-grid-snake-dark.svg)
+<br/>
 
-</div>
+<!-- Quote -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
----
+<h2 align="center">💭 Today's Dev Wisdom</h2>
 
-<div align="center">
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&border=true" alt="Random Dev Quote"/>
+</p>
 
-### 🤝 Let's Connect
+<br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/hritik-hassani)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/hritikhassaniNU)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hritikhassaniNU@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://github.com/hritikhassaniNU)
+<!-- Snake Animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hritikhassaniNU/hritikhassaniNU/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hritikhassaniNU/hritikhassaniNU/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hritikhassaniNU/hritikhassaniNU/output/github-contribution-grid-snake.svg">
+</picture>
 
-</div>
+<br/><br/>
 
----
+<!-- Connect Section with Cards -->
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-<div align="center">
+<h2 align="center">🤝 Let's Connect & Collaborate</h2>
 
-### 💭 Dev Quote
+<p align="center">
+  <a href="https://linkedin.com/in/hritik-hassani" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:hritikhassaniNU@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&style=flat-square" alt="Gmail"/>
+  </a>
+  <a href="https://github.com/hritikhassaniNU" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white&style=flat-square" alt="GitHub"/>
+  </a>
+</p>
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,5,6&height=4"/>
+</p>
 
-</div>
+<p align="center">
+  <b>💡 "Code is like humor. When you have to explain it, it's bad." – Cory House</b>
+</p>
 
----
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=0,2,3,5,6&height=4"/>
+</p>
 
-<div align="center">
+<br/>
 
-### 👀 Profile Views
+<!-- Footer Wave -->
+<img src="https://capsule-render.vercel.app/api?type=waving&height=150&color=gradient&customColorList=0,2,3,5,6&section=footer" width="100%"/>
 
-![](https://komarev.com/ghpvc/?username=hritikhassaniNU&color=blueviolet&style=for-the-badge)
+<p align="center">
+  <img src="https://img.shields.io/badge/Made%20with-❤️-red?style=for-the-badge" alt="Made with Love"/>
+  <img src="https://img.shields.io/badge/Maintained-Yes-green?style=for-the-badge" alt="Maintained"/>
+  <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge" alt="PRs Welcome"/>
+</p>
 
-</div>
-
----
-
-<div align="center">
-
-<!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
-**⭐ From [hritikhassaniNU](https://github.com/hritikhassaniNU) with 💙**
-
-</div>
+<p align="center">
+  <sub>⭐ From <a href="https://github.com/hritikhassaniNU">hritikhassaniNU</a> with 💙</sub>
+</p>
