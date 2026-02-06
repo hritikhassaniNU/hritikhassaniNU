@@ -62,15 +62,6 @@ const hritik = {
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hritikhassaniNU&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=FFFFFF&langs_count=8" />
   <img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=hritikhassaniNU&theme=radical&utcOffset=8" />
 </p>
-
----
-
-### <img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif" width="28"> GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=hritikhassaniNU&theme=radical&no-frame=true&no-bg=true&row=1&column=6&margin-w=10" />
-</p>
-
 ---
 
 ### <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> Contribution Graph
@@ -88,16 +79,6 @@ const hritik = {
 </p>
 
 ---
-
-### <img src="https://user-images.githubusercontent.com/74038190/212257454-16e3712e-945a-4ca2-b238-408ad0bf87e6.gif" width="30"> Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hritikhassaniNU/hritikhassaniNU/output/github-contribution-grid-snake-dark.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/hritikhassaniNU/hritikhassaniNU/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&customColorList=0,2,3,5,6&section=footer"/>
 </p>
